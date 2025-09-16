@@ -9,10 +9,14 @@ Link do Padlet:
 
 ***1.1.  Nome do Grupo***
 
-Daniel Kawata Hara - Danielkh497
+Daniel Kawata Hara - Danielkh497 
+
 João Levi Cabral Piotto - joaolevicabralpiotto
+
 João Pedro Lorenzetti - joaoLorenzetti
+
 Miguel Nazario Simões - miguelnsimoes
+
 Yaron Gonçalves Buclher - YaronBuclher
 
 ***1.2.  Nome do Sistema***
@@ -73,9 +77,9 @@ Perfil: Gestores ou responsáveis pela área de manutenção e operação de emp
 
 Características: Possuem conhecimento técnico médio a avançado sobre processos industriais ou administrativos, utilizam sistemas integrados e demandam relatórios detalhados para tomada de decisões.
 
-Objetivos: Identificar pontos críticos de desperdício, integrar dados com sistemas existentes e acompanhar relatórios de eficiência energética para reduzir custos operacionais.
+Objetivos: Identificar pontos críticos de desperdício, integrar dados com sistemas existentes e acompanhar relatórios de eficiência energética para reduzir custos operacionais
 
-***Personas:***
+
 <img width="659" height="501" alt="image" src="https://github.com/user-attachments/assets/2cd7acf2-c36c-4e2a-9eee-a88dea813fa8" />
 
 ***Análise da situação atual: antes da introdução de sua solução***
