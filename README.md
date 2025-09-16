@@ -61,9 +61,7 @@ Investidores ou Stakeholders Institucionais – interessados na viabilidade e im
 
 O sistema EnergySave será utilizado por dois perfis principais de usuários finais, cujas necessidades e características são detalhadas a seguir.
 
-Perfis de Usuários
-
-Usuários Residenciais
+***Usuários Residenciais***
 
 Perfil: Pessoas comuns que desejam monitorar e reduzir o consumo de energia em suas casas, visando economia financeira e sustentabilidade ambiental.
 
@@ -71,7 +69,7 @@ Características: Geralmente têm conhecimento básico sobre consumo energético
 
 Objetivos: Controlar o consumo de energia em tempo real, receber alertas sobre usos anormais e seguir sugestões para reduzir a conta de luz.
 
-Usuários Corporativos (Empresas)
+***Usuários Corporativos (Empresas)***
 
 Perfil: Gestores ou responsáveis pela área de manutenção e operação de empresas que buscam otimizar processos e reduzir desperdícios energéticos.
 
@@ -84,9 +82,9 @@ Objetivos: Identificar pontos críticos de desperdício, integrar dados com sist
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
-O que as pessoas fazem?
+***O que as pessoas fazem?***
 
-Usuários residenciais:
+***Usuários residenciais:***
 
 Consultam manualmente as faturas de energia para entender o consumo.
 
@@ -96,7 +94,7 @@ Tentam controlar o consumo de forma intuitiva, sem dados precisos.
 
 Dependem de informações genéricas e conselhos para economizar energia.
 
-Usuários empresariais:
+***Usuários empresariais:***
 
 Utilizam medições periódicas e manuais do consumo energético.
 
@@ -106,7 +104,7 @@ Geram relatórios com atraso e de forma manual, dificultando ações rápidas.
 
 Possuem dificuldade para identificar desperdícios energéticos em tempo real.
 
-2. Quais os artefatos envolvidos?
+***2. Quais os artefatos envolvidos?***
 
 Contas e faturas de energia elétrica impressas ou digitais.
 
@@ -118,9 +116,9 @@ Relatórios gerados esporadicamente, geralmente em formatos básicos.
 
 Comunicação verbal ou por e-mail para alertas, quando há algum problema.
 
-3. O que elas precisam saber?
+***3. O que elas precisam saber?***
 
-Usuários residenciais:
+***Usuários residenciais:***
 
 Entender as informações gerais da conta de energia.
 
@@ -128,7 +126,7 @@ Como economizar energia baseado em dicas genéricas.
 
 Reconhecer padrões básicos de consumo para tentar evitar desperdícios.
 
-Usuários empresariais:
+***Usuários empresariais:***
 
 Como interpretar dados periódicos e muitas vezes desatualizados.
 
@@ -137,9 +135,9 @@ Quais setores geram maior consumo, com base em relatórios manuais.
 Procedimentos para buscar redução de custos energéticos, ainda que de forma reativa.
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
-O que as pessoas fazem?
+***O que as pessoas fazem?***
 
-Usuários residenciais:
+***Usuários residenciais:***
 
 Monitoram o consumo energético em tempo real via aplicativo.
 
@@ -149,7 +147,7 @@ Seguem sugestões personalizadas para otimizar o consumo.
 
 Analisam relatórios detalhados e históricos para controle financeiro e ambiental.
 
-Usuários empresariais:
+***Usuários empresariais:***
 
 Acompanham o consumo energético em diferentes setores em dashboards integrados.
 
@@ -159,7 +157,7 @@ Implementam ações rápidas baseadas nas sugestões do sistema para redução d
 
 Integram o EnergySave com sistemas corporativos para análise avançada.
 
-2. Quais os artefatos envolvidos?
+***2. Quais os artefatos envolvidos?***
 
 Aplicativo móvel e plataforma web responsiva para monitoramento e análise.
 
@@ -171,9 +169,9 @@ Relatórios digitais gerados automaticamente, com gráficos e indicadores.
 
 Banco de dados e sistemas de análise para processamento contínuo dos dados.
 
-3. O que elas precisam saber?
+***3. O que elas precisam saber?***
 
-Usuários residenciais:
+***Usuários residenciais:***
 
 Como interpretar os dados apresentados em tempo real.
 
@@ -181,7 +179,7 @@ O significado dos alertas e como aplicar as sugestões para reduzir consumo.
 
 Como configurar preferências pessoais no aplicativo.
 
-Usuários empresariais:
+***Usuários empresariais:***
 
 Como utilizar dashboards para analisar consumo por setor e identificar desperdícios.
 
