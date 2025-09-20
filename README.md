@@ -106,7 +106,8 @@ Objetivos: Identificar pontos críticos de desperdício, integrar dados com sist
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
+<img width="806" height="253" alt="Capturar3" src="https://github.com/user-attachments/assets/9aa56ac6-d20a-4d0b-8c23-90d0c02753e7" />
+
 
 ***2.2. Requisitos Não Funcionais***
 
