@@ -78,9 +78,16 @@ Características: Possuem conhecimento técnico médio a avançado sobre process
 Objetivos: Identificar pontos críticos de desperdício, integrar dados com sistemas existentes e acompanhar relatórios de eficiência energética para reduzir custos operacionais
 
 
-***Personas:***
+***Usuario Residencial***
 
-*<Imagem, arquivo (PDF), link com as Personas.>*
+
+<img width="498" height="702" alt="Captura de tela 2025-09-22 154443" src="https://github.com/user-attachments/assets/0f63d14c-d7ad-4a47-948e-fa04667e05ed" />
+
+
+***Gestor De Energia Em Empresa***
+
+
+<img width="501" height="700" alt="Captura de tela 2025-09-22 154604" src="https://github.com/user-attachments/assets/206e5d10-4363-40cb-8769-4b86aca816d8" />
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
