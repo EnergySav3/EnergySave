@@ -89,25 +89,172 @@ Objetivos: Identificar pontos críticos de desperdício, integrar dados com sist
 
 <img width="501" height="700" alt="Captura de tela 2025-09-22 154604" src="https://github.com/user-attachments/assets/206e5d10-4363-40cb-8769-4b86aca816d8" />
 
-***Análise da situação atual: antes da introdução de sua solução***
 
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
+***Análise da Situação Atual: Antes da Introdução da Solução (EnergySave)***
+
+***O que as pessoas fazem?***
+
+***João Silva (usuário residencial):***
+
+João tenta controlar o consumo de energia em sua casa, mas de forma intuitiva. Ele observa sua fatura de energia, tenta controlar o uso de aparelhos de forma geral, mas não tem informações detalhadas sobre o que consome mais energia.
+
+Muitas vezes, ele não tem consciência de padrões de consumo, especialmente em horários de pico ou devido a aparelhos específicos como ar-condicionado e eletrodomésticos.
+
+Ele pode se preocupar com o impacto ambiental, mas não sabe como otimizar o consumo de forma prática.
+
+***Carlos Oliveira (gestor de energia em empresa):***
+
+Carlos tenta reduzir os custos de energia na fábrica, mas não possui uma visão clara sobre os pontos de desperdício.
+
+Ele verifica o consumo de energia de maneira isolada e muitas vezes com informações dispersas, sem saber o que pode ser feito para reduzir os gastos de forma eficaz.
+
+Carlos toma decisões com base em relatórios financeiros, mas sem dados detalhados ou uma visão integrada do consumo energético em todos os setores da empresa.
+
+***Quais os artefatos envolvidos?:***
+
+***João Silva (usuário residencial):***
+
+Contas de energia: O principal artefato utilizado para medir o consumo, mas sem informações detalhadas sobre o que está consumindo mais energia.
+
+Aparelhos eletrônicos e ar-condicionado: São os principais responsáveis pelo consumo, mas não há controle automatizado ou dados que mostrem exatamente o impacto de cada um desses dispositivos.
+
+Notificações manuais: João pode ajustar manualmente o uso de energia, mas sem dados precisos sobre o impacto real de suas escolhas.
+
+***Carlos Oliveira (gestor de energia em empresa):***
+
+Relatórios financeiros e de consumo: Utilizados para verificar os custos de energia, mas sem uma análise detalhada ou comparativa dos setores da empresa.
+
+Sistemas de medição de energia: Pode haver medidores de energia nos setores, mas muitas vezes esses dados são desorganizados e pouco integrados.
+
+Máquinas e equipamentos industriais: Responsáveis pelo alto consumo de energia, mas não há uma visão precisa de quais máquinas ou processos estão consumindo mais ou de como otimizar esses consumos.
+
+***O que elas precisam saber?:***
+
+***João Silva (usuário residencial):***
+
+Padrões de consumo: Ele precisa entender como a energia está sendo consumida em sua casa, saber quais aparelhos são mais responsáveis pelo alto consumo e como ajustar seu comportamento para reduzir as despesas.
+
+Alternativas de economia: João precisa de sugestões práticas sobre como economizar energia sem comprometer o conforto de sua casa, como otimizar o uso do ar-condicionado, iluminação e eletrônicos.
+
+Informações em tempo real: Ele precisa de dados em tempo real sobre seu consumo para agir de maneira rápida quando o consumo estiver muito alto ou fora do esperado.
+
+***Carlos Oliveira (gestor de energia em empresa):***
+
+Onde ocorre o desperdício: Carlos precisa saber em quais setores ou máquinas ocorre o maior desperdício de energia e como distribuir melhor os recursos.
+
+Eficiência dos processos: Ele precisa entender quais processos industriais podem ser otimizados para consumir menos energia e quais equipamentos são os maiores responsáveis pelo consumo.
+
+Informações centralizadas e em tempo real: Ele necessita de um sistema que centralize os dados de consumo de energia de toda a empresa para gerar relatórios claros, permitindo a tomada de decisões baseadas em dados precisos e atualizados.
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
+***1. O que as pessoas fazem?***
+
+***João Silva (usuário residencial):***
+
+Monitora o consumo de energia em tempo real pelo aplicativo.
+
+Recebe alertas automáticos quando há uso excessivo.
+
+Ajusta hábitos e uso de aparelhos de acordo com sugestões do sistema.
+
+Consulta relatórios claros para entender padrões e planejar economias.
+
+***Carlos Oliveira (gestor de energia em empresa):***
+
+Acompanha o consumo energético de todos os setores da fábrica em dashboards integrados.
+
+Identifica rapidamente áreas e máquinas que consomem mais energia.
+
+Implementa estratégias de eficiência energética baseadas nas recomendações do sistema.
+
+Utiliza relatórios para apoiar decisões estratégicas e monitorar resultados.
+
+***2. Quais os artefatos envolvidos?***
+
+***João Silva (usuário residencial):***
+
+Aplicativo EnergySave (mobile/desktop).
+
+Sensores inteligentes conectados aos aparelhos.
+
+Relatórios de consumo semanais/mensais.
+
+Notificações automáticas com dicas de economia.
+
+***Carlos Oliveira (gestor de energia em empresa):***
+
+Plataforma EnergySave integrada ao ERP da empresa.
+
+Sensores industriais espalhados pelos setores e máquinas.
+
+Dashboards de desempenho energético.
+
+Relatórios personalizados para tomada de decisão.
+
+***3. O que elas precisam saber?***
+
+***João Silva (usuário residencial):***
+
+Quais aparelhos mais consomem energia e em quais horários.
+
+Alertas de uso excessivo em tempo real.
+
+Sugestões práticas para economizar sem perder conforto.
+
+Evolução do consumo ao longo do tempo.
+
+Carlos Oliveira (gestor de energia em empresa):
+
+Quais setores e equipamentos são menos eficientes.
+
+Comparativos de consumo antes e depois das mudanças.
+
+Relatórios integrados unindo dados de energia e custos.
+
+Recomendações de melhorias operacionais e técnicas.
 
 ***Cenário: Antes***
 
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
+Antes da aplicação do EnergySave, João e Carlos enfrentam desafios significativos relacionados ao controle e otimização do consumo de energia.
+
+***João Silva (usuário residencial):***
+
+Não tem uma visão clara de como sua casa consome energia, especialmente em relação a aparelhos como ar-condicionado e eletrônicos.
+
+A fatura de energia está aumentando, mas ele não sabe exatamente quais aparelhos ou comportamentos estão contribuindo para esse aumento.
+
+Não há uma forma simples de saber como pode reduzir seu consumo ou ajustar seus hábitos de forma mais eficiente.
+
+***Carlos Oliveira (gestor de energia empresarial):***
+
+A empresa enfrenta dificuldades para identificar pontos específicos de desperdício de energia, pois o consumo é disperso em vários processos e maquinários.
+
+As informações de consumo energético são obtidas de forma desorganizada, o que torna difícil otimizar os custos de forma precisa.
+
+A falta de uma visão integrada sobre a eficiência energética da fábrica dificulta a implementação de soluções eficientes para reduzir os custos operacionais.
 
 ***Cenário: Depois***
 
-*<Preencher com o cenário idealizado depois da aplicação do seu sistema.>*
+Após a aplicação do EnergySave, ambos os perfis experimentam melhorias significativas no gerenciamento de energia.
+
+João Silva:
+
+Utilizando o sistema EnergySave, João pode monitorar em tempo real o consumo de energia em sua casa, recebendo alertas sempre que o consumo excede limites estabelecidos.
+
+O sistema sugere soluções de otimização de energia, como desligar aparelhos em horários de pico ou investir em dispositivos mais eficientes.
+
+João tem relatórios claros sobre seu consumo energético, permitindo que ele tome decisões informadas sobre como reduzir a conta de energia sem abrir mão do conforto.
+
+Carlos Oliveira:
+
+A empresa de Carlos adota o EnergySave para monitorar o consumo de energia em tempo real, com sensores espalhados por toda a fábrica.
+
+O sistema fornece dados detalhados sobre o uso de energia, permitindo a identificação de áreas e processos ineficientes.
+
+Com relatórios claros e sugestões de melhoria, Carlos pode implementar estratégias mais eficazes para reduzir o desperdício energético e melhorar a eficiência operacional.
+
+A integração do sistema com os processos industriais ajuda na redução de custos operacionais, melhorando a competitividade da empresa no mercado.
 
 ## 2. Documentos gerais no repositório
 
