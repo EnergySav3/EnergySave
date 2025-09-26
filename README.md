@@ -260,7 +260,10 @@ A integração do sistema com os processos industriais ajuda na redução de cus
 
 ***2.1. Requisitos Funcionais***
 
-<img width="806" height="253" alt="Capturar3" src="https://github.com/user-attachments/assets/9aa56ac6-d20a-4d0b-8c23-90d0c02753e7" />
+
+<img width="798" height="417" alt="Captura de tela 2025-09-26 190851" src="https://github.com/user-attachments/assets/2260ba06-c880-4d1c-a55c-43186cacb5de" />
+
+
 
 
 ***2.2. Requisitos Não Funcionais***
