@@ -268,7 +268,11 @@ A integração do sistema com os processos industriais ajuda na redução de cus
 
 ***2.2. Requisitos Não Funcionais***
 
-*<Link, imagem, arquivo com os requisitos não funcionais.>*
+
+<img width="799" height="691" alt="Captura de tela 2025-09-29 003232" src="https://github.com/user-attachments/assets/db381ba9-0871-4928-a9bf-aff4c4fdb92e" />
+
+
+
 
 ***2.3. Perguntas***
 
