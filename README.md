@@ -81,13 +81,15 @@ Objetivos: Identificar pontos críticos de desperdício, integrar dados com sist
 ***Usuario Residencial***
 
 
-<img width="498" height="702" alt="Captura de tela 2025-09-22 154443" src="https://github.com/user-attachments/assets/0f63d14c-d7ad-4a47-948e-fa04667e05ed" />
+<img width="1414" height="2000" alt="Cópia de Nome" src="https://github.com/user-attachments/assets/963cf03b-3d58-4c2e-8d41-724dc68809bd" />
+
 
 
 ***Gestor De Energia Em Empresa***
 
 
-<img width="501" height="700" alt="Captura de tela 2025-09-22 154604" src="https://github.com/user-attachments/assets/206e5d10-4363-40cb-8769-4b86aca816d8" />
+<img width="1414" height="2000" alt="Nome" src="https://github.com/user-attachments/assets/0f0fcf78-2bc6-40ae-a444-3e05dc2a54aa" />
+
 
 
 ***Análise da Situação Atual: Antes da Introdução da Solução (EnergySave)***
