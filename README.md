@@ -278,7 +278,25 @@ A integração do sistema com os processos industriais ajuda na redução de cus
 
 ***2.3. Perguntas***
 
-*<Arquivo com as perguntas realizadas na entrevista .>*
+1. Na sua opinião, o monitoramento em tempo real do consumo energético é tecnicamente viável e acessível para residências e pequenas empresas hoje?
+
+2. Quais sensores ou tecnologias você recomendaria para coletar dados de consumo com precisão e segurança?
+
+3. Você vê alguma dificuldade em integrar sensores de medição com um sistema baseado em software (web/mobile)?
+
+4. Acredita que sistemas como o EnergySave podem realmente promover uma redução significativa no consumo de energia? Por quê?
+
+5. Quais estratégias ou algoritmos de análise você considera mais eficazes para sugerir otimizações de consumo energético em tempo real?
+
+6. Em relação à automação, seria possível sugerir ou até acionar desligamentos de equipamentos em horários críticos? Isso é viável ou perigoso?
+
+7. Como você vê a aceitação desse tipo de sistema entre usuários comuns e empresas? Existe resistência ou é algo bem-vindo?
+   
+8. Quais tipos de dados sobre o consumo energético você considera mais relevantes para gerar relatórios úteis e estratégicos para o usuário?
+
+9. Quais pontos você acredita que merecem mais atenção no desenvolvimento de um sistema como esse (segurança, escalabilidade, precisão, etc.)?
+
+10. Você teria alguma sugestão ou melhoria que poderia tornar o EnergySave mais robusto ou atrativo do ponto de vista técnico ou comercial?
 
 ***2.4. Entrevista***
 
