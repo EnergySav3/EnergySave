@@ -5,7 +5,7 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 Link do Padlet:
 
-## 1. Introdução
+##  1. Introdução
 
 ***1.1.  Nome do Grupo***
 
@@ -23,7 +23,7 @@ Yaron Gonçalves Buclher - YaronBuclher
 
 EnergySave
 
-***1.3.  Propósito do Sistema***
+## ***1.3.  Propósito do Sistema***
 
 O objetivo do sistema EnergySave é oferecer uma solução inteligente e eficiente para o monitoramento e a otimização do consumo de energia elétrica em residências e empresas. O sistema visa identificar, em tempo real, padrões de uso energético, emitir alertas sobre consumos excessivos ou anormais e sugerir soluções práticas e imediatas para reduzir desperdícios.
 
@@ -33,7 +33,7 @@ O EnergySave traz benefícios significativos como redução de custos com energi
 
 O sistema resolve problemas como a falta de visibilidade sobre o consumo energético, o desperdício não identificado, e a dificuldade em tomar decisões rápidas para otimização de energia. Seu comportamento principal é o de atuar de forma preventiva e orientativa, fornecendo dados e recomendações em tempo real, tanto para usuários residenciais quanto para empresas.
 
-***1.2.  Público Alvo***
+## ***1.2.  Público Alvo***
 
 Este documento se destina aos seguintes perfis envolvidos no desenvolvimento, utilização e validação do sistema EnergySave:
 
@@ -57,11 +57,11 @@ Especialistas em Energia e Sustentabilidade – que poderão colaborar na valida
 
 Investidores ou Stakeholders Institucionais – interessados na viabilidade e impacto social/ambiental do sistema.
 
-***1.3. Descrição dos usuários***
+## ***1.3. Descrição dos usuários***
 
 O sistema EnergySave será utilizado por dois perfis principais de usuários finais, cujas necessidades e características são detalhadas a seguir.
 
-***Usuários Residenciais***
+## ***Usuários Residenciais***
 
 Perfil: Pessoas comuns que desejam monitorar e reduzir o consumo de energia em suas casas, visando economia financeira e sustentabilidade ambiental.
 
@@ -69,7 +69,7 @@ Características: Geralmente têm conhecimento básico sobre consumo energético
 
 Objetivos: Controlar o consumo de energia em tempo real, receber alertas sobre usos anormais e seguir sugestões para reduzir a conta de luz.
 
-***Usuários Corporativos (Empresas)***
+## ***Usuários Corporativos (Empresas)***
 
 Perfil: Gestores ou responsáveis pela área de manutenção e operação de empresas que buscam otimizar processos e reduzir desperdícios energéticos.
 
@@ -78,21 +78,21 @@ Características: Possuem conhecimento técnico médio a avançado sobre process
 Objetivos: Identificar pontos críticos de desperdício, integrar dados com sistemas existentes e acompanhar relatórios de eficiência energética para reduzir custos operacionais
 
 
-***Usuario Residencial***
+## ***Usuario Residencial***
 
 
 <img width="1414" height="2000" alt="Cópia de Nome" src="https://github.com/user-attachments/assets/963cf03b-3d58-4c2e-8d41-724dc68809bd" />
 
 
 
-***Gestor De Energia Em Empresa***
+## ***Gestor De Energia Em Empresa***
 
 
 <img width="1414" height="2000" alt="Nome" src="https://github.com/user-attachments/assets/0f0fcf78-2bc6-40ae-a444-3e05dc2a54aa" />
 
 
 
-***Análise da Situação Atual: Antes da Introdução da Solução (EnergySave)***
+## ***Análise da Situação Atual: Antes da Introdução da Solução (EnergySave)***
 
 ***O que as pessoas fazem?***
 
@@ -104,7 +104,7 @@ Muitas vezes, ele não tem consciência de padrões de consumo, especialmente em
 
 Ele pode se preocupar com o impacto ambiental, mas não sabe como otimizar o consumo de forma prática.
 
-***Carlos Oliveira (gestor de energia em empresa):***
+ ***Carlos Oliveira (gestor de energia em empresa):***
 
 Carlos tenta reduzir os custos de energia na fábrica, mas não possui uma visão clara sobre os pontos de desperdício.
 
@@ -114,7 +114,7 @@ Carlos toma decisões com base em relatórios financeiros, mas sem dados detalha
 
 ***Quais os artefatos envolvidos?:***
 
-***João Silva (usuário residencial):***
+ ***João Silva (usuário residencial):***
 
 Contas de energia: O principal artefato utilizado para medir o consumo, mas sem informações detalhadas sobre o que está consumindo mais energia.
 
@@ -122,7 +122,7 @@ Aparelhos eletrônicos e ar-condicionado: São os principais responsáveis pelo 
 
 Notificações manuais: João pode ajustar manualmente o uso de energia, mas sem dados precisos sobre o impacto real de suas escolhas.
 
-***Carlos Oliveira (gestor de energia em empresa):***
+ ***Carlos Oliveira (gestor de energia em empresa):***
 
 Relatórios financeiros e de consumo: Utilizados para verificar os custos de energia, mas sem uma análise detalhada ou comparativa dos setores da empresa.
 
@@ -130,7 +130,7 @@ Sistemas de medição de energia: Pode haver medidores de energia nos setores, m
 
 Máquinas e equipamentos industriais: Responsáveis pelo alto consumo de energia, mas não há uma visão precisa de quais máquinas ou processos estão consumindo mais ou de como otimizar esses consumos.
 
-***O que elas precisam saber?:***
+## ***O que elas precisam saber?:***
 
 ***João Silva (usuário residencial):***
 
@@ -148,9 +148,9 @@ Eficiência dos processos: Ele precisa entender quais processos industriais pode
 
 Informações centralizadas e em tempo real: Ele necessita de um sistema que centralize os dados de consumo de energia de toda a empresa para gerar relatórios claros, permitindo a tomada de decisões baseadas em dados precisos e atualizados.
 
-***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
+## ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
-***1. O que as pessoas fazem?***
+ ***1. O que as pessoas fazem?***
 
 ***João Silva (usuário residencial):***
 
@@ -172,7 +172,7 @@ Implementa estratégias de eficiência energética baseadas nas recomendações 
 
 Utiliza relatórios para apoiar decisões estratégicas e monitorar resultados.
 
-***2. Quais os artefatos envolvidos?***
+## ***2. Quais os artefatos envolvidos?***
 
 ***João Silva (usuário residencial):***
 
@@ -194,7 +194,7 @@ Dashboards de desempenho energético.
 
 Relatórios personalizados para tomada de decisão.
 
-***3. O que elas precisam saber?***
+## ***3. O que elas precisam saber?***
 
 ***João Silva (usuário residencial):***
 
@@ -216,7 +216,7 @@ Relatórios integrados unindo dados de energia e custos.
 
 Recomendações de melhorias operacionais e técnicas.
 
-***Cenário: Antes***
+## ***Cenário: Antes***
 
 Antes da aplicação do EnergySave, João e Carlos enfrentam desafios significativos relacionados ao controle e otimização do consumo de energia.
 
@@ -236,7 +236,7 @@ As informações de consumo energético são obtidas de forma desorganizada, o q
 
 A falta de uma visão integrada sobre a eficiência energética da fábrica dificulta a implementação de soluções eficientes para reduzir os custos operacionais.
 
-***Cenário: Depois***
+## ***Cenário: Depois***
 
 Após a aplicação do EnergySave, ambos os perfis experimentam melhorias significativas no gerenciamento de energia.
 
@@ -260,7 +260,7 @@ A integração do sistema com os processos industriais ajuda na redução de cus
 
 ## 2. Documentos gerais no repositório
 
-***2.1. Requisitos Funcionais***
+## ***2.1. Requisitos Funcionais***
 
 | Código | Descrição | Categoria | Dependências (RF / RNF) | Prioridade |
 |---------|------------|------------|--------------------------|-------------|
@@ -281,7 +281,7 @@ A integração do sistema com os processos industriais ajuda na redução de cus
 
 
 
-***2.2. Requisitos Não Funcionais***
+## ***2.2. Requisitos Não Funcionais***
 
 | Código | Descrição | Categoria | Dependências (RF / RNF) | Prioridade |
 |---------|------------|------------|--------------------------|-------------|
@@ -301,7 +301,7 @@ A integração do sistema com os processos industriais ajuda na redução de cus
 
 
 
-***2.3. Perguntas***
+## ***2.3. Perguntas***
 
 1. Na sua opinião, o monitoramento em tempo real do consumo energético é tecnicamente viável e acessível para residências e pequenas empresas hoje?
 
@@ -323,23 +323,23 @@ A integração do sistema com os processos industriais ajuda na redução de cus
 
 10. Você teria alguma sugestão ou melhoria que poderia tornar o EnergySave mais robusto ou atrativo do ponto de vista técnico ou comercial?
 
-***2.4. Entrevista***
+## ***2.4. Entrevista***
 
 *<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
 
-***2.5. Histórias do Usuário***
+## ***2.5. Histórias do Usuário***
 
 *<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
 
-***2.6. Diagramas de Caso de Uso e Especificações***
+## ***2.6. Diagramas de Caso de Uso e Especificações***
 
 *<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
 
-***2.7. Diagramas de Atividades***
+## ***2.7. Diagramas de Atividades***
 
 *<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
 
-***2.8. Protótipos***
+## ***2.8. Protótipos***
 
 *<Imagem, arquivo (PDF), link com Protótipo.>*
 
