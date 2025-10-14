@@ -261,42 +261,42 @@ A integração do sistema com os processos industriais ajuda na redução de cus
 ## 2. Documentos gerais no repositório
 
 ## ***2.1. Requisitos Funcionais***
+| Código | Descrição                                                                                                                       | Categoria                      | Dependências (RF / RNF) | Prioridade | MoSCoW |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------------------- | ---------- | ------ |
+| RF01   | O software deve permitir que o usuário monitore os gastos de energia mensal.                                                    | Monitoramento                  | RNF01, RNF03, RNF04     | Alta       | M      |
+| RF02   | O software deve alertar quando o consumo mensal ultrapassar em 20% a média dos últimos 3 meses, em horários fora do expediente. | Notificações                   | RF01, RNF06             | Alta       | M      |
+| RF03   | O software deve fornecer soluções para os problemas de gasto energético.                                                        | Otimização                     | RF01, RF02              | Média      | S      |
+| RF04   | O software deve mostrar os dados em forma de gráficos de fácil interpretação para o usuário.                                    | Visualização                   | RF01                    | Média      | S      |
+| RF05   | O software deve gerar relatórios personalizados de desempenho energético por período.                                           | Relatórios                     | RF01, RF04, RNF10       | Média      | S      |
+| RF06   | O software deve permitir comparação de consumo entre diferentes períodos.                                                       | Análise                        | RF01                    | Média      | S      |
+| RF07   | O software deve possibilitar cadastro de múltiplos dispositivos ou setores.                                                     | Cadastro / Gestão              | RF01                    | Média      | S      |
+| RF08   | O software deve enviar notificações em até 5 segundos após a detecção de um pico de consumo acima de 30% da média horária.      | Notificações                   | RF01, RF02, RNF06       | Alta       | M      |
+| RF09   | O software deve oferecer recomendações automáticas de economia de energia baseadas em padrões de consumo.                       | Inteligência / Recomendação    | RF01, RF02, RF03        | Baixa      | C      |
+| RF10   | O software deve possibilitar exportação de relatórios em formatos comuns (PDF, Excel).                                          | Relatórios                     | RF05                    | Baixa      | C      |
+| RF11   | O sistema deve permitir cadastro e autenticação de usuários com e-mail e senha, garantindo controle de acesso seguro.           | Cadastro / Segurança           | RNF11                   | Alta       | M      |
+| RF12   | O sistema deve permitir cadastro e autenticação de usuários com e-mail e senha, garantindo controle de acesso seguro.           | Monitoramento / Confiabilidade | RNF12                   | Média      | S      |
 
-| Código | Descrição | Categoria | Dependências (RF / RNF) | Prioridade |
-|---------|------------|------------|--------------------------|-------------|
-| RF01 | O software deve permitir que o usuário monitore os gastos de energia mensal. | Monitoramento | RNF01, RNF03, RNF04 | Alta |
-| RF02 | O software deve alertar quando o consumo mensal ultrapassar em 20% a média dos últimos 3 meses, em horários fora do expediente. | Notificações | RF01, RNF06 | Alta |
-| RF03 | O software deve fornecer soluções para os problemas de gasto energético. | Otimização | RF01, RF02 | Média |
-| RF04 | O software deve mostrar os dados em forma de gráficos de fácil interpretação para o usuário. | Visualização | RF01 | Média |
-| RF05 | O software deve gerar relatórios personalizados de desempenho energético por período. | Relatórios | RF01, RF04, RNF10 | Média |
-| RF06 | O software deve permitir comparação de consumo entre diferentes períodos. | Análise | RF01 | Média |
-| RF07 | O software deve possibilitar cadastro de múltiplos dispositivos ou setores. | Cadastro / Gestão | RF01 | Média |
-| RF08 | O software deve enviar notificações em até 5 segundos após a detecção de um pico de consumo acima de 30% da média horária. | Notificações | RF01, RF02, RNF06 | Alta |
-| RF09 | O software deve oferecer recomendações automáticas de economia de energia baseadas em padrões de consumo. | Inteligência / Recomendação | RF01, RF02, RF03 | Baixa |
-| RF10 | O software deve possibilitar exportação de relatórios em formatos comuns (PDF, Excel). | Relatórios | RF05 | Baixa |
-| RF11 | O sistema deve permitir cadastro e autenticação de usuários com e-mail e senha, garantindo controle de acesso seguro. | Cadastro / Segurança | RNF11 | Alta |
-| RF12 | O sistema deve permitir cadastro e autenticação de usuários com e-mail e senha, garantindo controle de acesso seguro. | Monitoramento / Confiabilidade | RNF12 | Média |
 
 
 
 
 
 ## ***2.2. Requisitos Não Funcionais***
+| Código | Descrição                                                                                                                                                           | Categoria        | Dependências (RF / RNF) | Prioridade | MoSCoW |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------------- | ---------- | ------ |
+| RNF01  | O sistema deve responder às consultas de consumo em tempo real em até 2 segundos.                                                                                   | Desempenho       | RF01, RNF06             | Alta       | M      |
+| RNF02  | A interface deve ser responsiva e acessível em navegadores modernos, Android e iOS.                                                                                 | Usabilidade      | —                       | Alta       | M      |
+| RNF03  | O software deve sugerir medidas de economia, como ajuste de horários de operação e troca de equipamentos ineficientes.                                              | Confiabilidade   | —                       | Alta       | M      |
+| RNF04  | O tráfego de dados entre sensores e servidores deve ser criptografado utilizando TLS 1.3.                                                                           | Segurança        | RF01, RF08              | Alta       | M      |
+| RNF05  | O sistema deve permitir armazenamento de, no mínimo, 5 anos de histórico de consumo por usuário.                                                                    | Escalabilidade   | RF01                    | Média      | S      |
+| RNF06  | As notificações de alertas de consumo devem ser entregues em até 5 segundos após a detecção do evento.                                                              | Eficiência       | RF08                    | Alta       | M      |
+| RNF07  | A interface deve seguir diretrizes de acessibilidade (WCAG 2.1).                                                                                                    | Usabilidade      | RNF02                   | Média      | S      |
+| RNF08  | O sistema deve suportar até 50 mil usuários simultâneos mantendo o tempo médio de resposta abaixo de 2 segundos e sem aumento de erros de requisição acima de 0,5%. | Escalabilidade   | RF01, RNF01             | Alta       | M      |
+| RNF09  | Atualizações e manutenções devem ser planejadas com no máximo 10 minutos de indisponibilidade.                                                                      | Manutenibilidade | RNF03                   | Média      | S      |
+| RNF10  | O sistema deve gerar relatórios em até 10 segundos, mesmo para períodos de 12 meses.                                                                                | Eficiência       | RF05                    | Alta       | M      |
+| RNF11  | O sistema deve utilizar mecanismos seguros de autenticação, criptografando credenciais e seguindo boas práticas OWASP para proteger dados de acesso.                | Segurança        | RF11                    | Alta       | M      |
+| RNF12  | O sistema deve garantir consistência dos dados em caso de falhas de sensores, descartando informações inválidas e registrando eventos para auditoria e análise.     | Confiabilidade   | RF12                    | Média      | S      |
 
-| Código | Descrição | Categoria | Dependências (RF / RNF) | Prioridade |
-|---------|------------|------------|--------------------------|-------------|
-| RNF01 | O sistema deve responder às consultas de consumo em tempo real em até 2 segundos. | Desempenho | RF01, RNF06 | Alta |
-| RNF02 | A interface deve ser responsiva e acessível em navegadores modernos, Android e iOS. | Usabilidade | — | Alta |
-| RNF03 | O software deve sugerir medidas de economia, como ajuste de horários de operação e troca de equipamentos ineficientes. | Confiabilidade | — | Alta |
-| RNF04 | O tráfego de dados entre sensores e servidores deve ser criptografado utilizando TLS 1.3. | Segurança | RF01, RF08 | Alta |
-| RNF05 | O sistema deve permitir armazenamento de, no mínimo, 5 anos de histórico de consumo por usuário. | Escalabilidade | RF01 | Média |
-| RNF06 | As notificações de alertas de consumo devem ser entregues em até 5 segundos após a detecção do evento. | Eficiência | RF08 | Alta |
-| RNF07 | A interface deve seguir diretrizes de acessibilidade (WCAG 2.1). | Usabilidade | RNF02 | Média |
-| RNF08 | O sistema deve suportar até 50 mil usuários simultâneos mantendo o tempo médio de resposta abaixo de 2 segundos e sem aumento de erros de requisição acima de 0,5%. | Escalabilidade | RF01, RNF01 | Alta |
-| RNF09 | Atualizações e manutenções devem ser planejadas com no máximo 10 minutos de indisponibilidade. | Manutenibilidade | RNF03 | Média |
-| RNF10 | O sistema deve gerar relatórios em até 10 segundos, mesmo para períodos de 12 meses. | Eficiência | RF05 | Alta |
-| RNF11 | O sistema deve utilizar mecanismos seguros de autenticação, criptografando credenciais e seguindo boas práticas OWASP para proteger dados de acesso. | Segurança | RF11 | Alta |
-| RNF12 | O sistema deve garantir consistência dos dados em caso de falhas de sensores, descartando informações inválidas e registrando eventos para auditoria e análise. | Confiabilidade | RF12 | Média |
 
 
 
