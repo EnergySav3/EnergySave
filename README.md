@@ -329,7 +329,21 @@ A integração do sistema com os processos industriais ajuda na redução de cus
 
 ## ***2.5. Histórias do Usuário***
 
-*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+| **Código** | **História de Usuário**                                                                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **RF01**   | Como usuário, quero monitorar os gastos de energia mensal para que eu possa acompanhar e controlar meu consumo.                                                            |
+| **RF02**   | Como usuário, quero receber alertas quando o consumo mensal ultrapassar em 20% a média dos últimos 3 meses fora do expediente para que eu possa tomar medidas preventivas. |
+| **RF03**   | Como usuário, quero que o sistema sugira soluções para problemas de gasto energético para que eu possa reduzir o consumo excessivo.                                        |
+| **RF04**   | Como usuário, quero visualizar os dados de consumo em gráficos de fácil interpretação para que eu compreenda rapidamente meu padrão de uso.                                |
+| **RF05**   | Como usuário, quero gerar relatórios personalizados de desempenho energético por período para que eu possa analisar e documentar o consumo.                                |
+| **RF06**   | Como usuário, quero comparar o consumo entre diferentes períodos para que eu possa identificar mudanças ou tendências.                                                     |
+| **RF07**   | Como gestor, quero cadastrar vários dispositivos ou setores para que eu possa acompanhar o consumo de cada um separadamente.                                               |
+| **RF08**   | Como usuário, quero ser notificado em até 5 segundos após a detecção de um pico de consumo acima de 30% da média horária para que eu possa agir imediatamente.                                           |
+| **RF09**   | Como usuário, quero receber recomendações automáticas de economia com base no padrão de consumo para que eu possa otimizar o uso de energia.                               |
+| **RF10**   | Como usuário, quero exportar relatórios em formatos como PDF e Excel para que eu possa compartilhar ou arquivar as informações.                                            |
+| **RF11**   | Como administrador, quero permitir o cadastro e autenticação de usuários com e-mail e senha para que o acesso ao sistema seja seguro.                                      |
+| **RF12**   | Como usuário, quero me autenticar com e-mail e senha para que meu acesso ao sistema seja seguro e personalizado.                                                           |
+
 
 ## ***2.6. Diagramas de Caso de Uso e Especificações***
 
