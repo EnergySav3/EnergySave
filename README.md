@@ -355,7 +355,7 @@ A integração do sistema com os processos industriais ajuda na redução de cus
 
 ## ***2.8. Protótipos***
 
-*<Imagem, arquivo (PDF), link com Protótipo.>*
+ninjamock.com/Designer/Workplace/207007837
 
 ## Referências
 
