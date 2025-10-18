@@ -347,7 +347,7 @@ A integração do sistema com os processos industriais ajuda na redução de cus
 
 ## ***2.6. Diagramas de Caso de Uso e Especificações***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
+<img width="880" height="724" alt="diagramaRequisitos" src="https://github.com/user-attachments/assets/0897b575-4116-4558-87b2-fce39e53b8d4" />
 
 ## ***2.7. Diagramas de Atividades***
 
