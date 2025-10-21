@@ -351,7 +351,8 @@ A integração do sistema com os processos industriais ajuda na redução de cus
 
 ## ***2.7. Diagramas de Atividades***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
+<img width="720" height="523" alt="JL4NJW~1" src="https://github.com/user-attachments/assets/05dea4f1-b51c-413c-bece-20233d12dcd1" />
+
 
 ## ***2.8. Protótipos***
 
