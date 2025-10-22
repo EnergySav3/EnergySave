@@ -25,57 +25,51 @@ EnergySave
 
 ## ***1.3.  Propósito do Sistema***
 
-O objetivo do sistema EnergySave é oferecer uma solução inteligente e eficiente para o monitoramento e a otimização do consumo de energia elétrica em residências e empresas. O sistema visa identificar, em tempo real, padrões de uso energético, emitir alertas sobre consumos excessivos ou anormais e sugerir soluções práticas e imediatas para reduzir desperdícios.
+O EnergySave é uma plataforma voltada para empresas e indústrias que desejam monitorar e otimizar o consumo de energia elétrica de maneira inteligente, acessível e eficiente.
 
-Entre suas principais características estão: o monitoramento contínuo do fluxo de energia, geração de relatórios de desempenho energético, interface acessível via dispositivos móveis e desktops, e integração com sistemas existentes em ambientes empresariais.
+O sistema permite acompanhar o consumo energético de blocos inteiros (como setores de produção, escritórios ou galpões) e também de máquinas específicas, exibindo gráficos, relatórios e alertas automáticos sobre o desempenho energético.
 
-O EnergySave traz benefícios significativos como redução de custos com energia elétrica, maior controle e transparência no consumo, e contribuição direta para a sustentabilidade ambiental.
+Quando identifica padrões de consumo anormais, o EnergySave oferece possíveis soluções e recomendações práticas para corrigir desperdícios e otimizar o uso da energia. Dessa forma, técnicos e gestores podem tomar decisões rápidas e informadas, sem depender exclusivamente de engenheiros elétricos ou especialistas externos.
 
-O sistema resolve problemas como a falta de visibilidade sobre o consumo energético, o desperdício não identificado, e a dificuldade em tomar decisões rápidas para otimização de energia. Seu comportamento principal é o de atuar de forma preventiva e orientativa, fornecendo dados e recomendações em tempo real, tanto para usuários residenciais quanto para empresas.
+Entre suas principais características estão:
+
+   - Exibição de dados e gráficos de consumo energético de fácil interpretação;
+
+   - Alertas automáticos sobre consumo excessivo ou irregular;
+
+   - Sugestões de soluções corretivas e preventivas;
+
+   - Interface intuitiva e responsiva, acessível em computadores e smartphones;
+
+   - Foco em análise rápida e tomada de decisão imediata.
+
+O EnergySave busca reduzir custos energéticos, aumentar a eficiência operacional e contribuir para a sustentabilidade industrial, oferecendo uma visão clara e completa sobre o consumo de energia da empresa.
 
 ## ***1.2.  Público Alvo***
 
-Este documento se destina aos seguintes perfis envolvidos no desenvolvimento, utilização e validação do sistema EnergySave:
+O sistema EnergySave é destinado a organizações empresariais e industriais que necessitam de uma ferramenta simples e eficiente para acompanhar o consumo energético de suas operações.
 
-Arquitetos de Software – responsáveis por definir a estrutura e a arquitetura do sistema.
+Entre os principais perfis de público estão:
 
-Engenheiros de Software – encarregados de implementar as funcionalidades descritas neste documento.
+   - Gestores e supervisores de produção que precisam visualizar relatórios e identificar desperdícios;
 
-Testadores (QA) – responsáveis pela validação e verificação do correto funcionamento do sistema.
+   - Técnicos de manutenção responsáveis por monitorar máquinas e equipamentos;
 
-Clientes (usuários finais) – incluindo tanto usuários residenciais quanto representantes de empresas interessadas na gestão eficiente do consumo energético.
+   - Analistas e engenheiros de eficiência energética, que utilizam os dados para propor melhorias;
 
-Gerentes de Projeto – para acompanhamento do progresso, prazos e entregas do sistema.
+   - Administradores e stakeholders, que acompanham indicadores de desempenho e custos.
 
-Designers de UX/UI – que atuarão na criação de interfaces amigáveis e funcionais, compatíveis com dispositivos móveis e desktops.
-
-Analistas de Requisitos – encarregados de mapear e manter atualizadas as necessidades dos usuários e stakeholders.
-
-Equipe de Suporte Técnico – que oferecerá atendimento e manutenção aos usuários após o lançamento do sistema.
-
-Especialistas em Energia e Sustentabilidade – que poderão colaborar na validação das sugestões de otimização energética propostas pelo sistema.
-
-Investidores ou Stakeholders Institucionais – interessados na viabilidade e impacto social/ambiental do sistema.
+O diferencial do EnergySave é sua facilidade de uso, permitindo que até mesmo técnicos com conhecimento básico em energia possam entender os gráficos, interpretar dados e aplicar soluções de forma autônoma, sem a necessidade de suporte constante de especialistas.
 
 ## ***1.3. Descrição dos usuários***
 
-O sistema EnergySave será utilizado por dois perfis principais de usuários finais, cujas necessidades e características são detalhadas a seguir.
+Os usuários do EnergySave são profissionais que atuam em ambientes industriais e corporativos, com responsabilidades ligadas à gestão, operação e manutenção de sistemas elétricos.
 
-## ***Usuários Residenciais***
+Eles utilizam o sistema para monitorar o consumo de energia, analisar gráficos e relatórios, detectar irregularidades e executar ações corretivas com base nas recomendações geradas automaticamente pela plataforma.
 
-Perfil: Pessoas comuns que desejam monitorar e reduzir o consumo de energia em suas casas, visando economia financeira e sustentabilidade ambiental.
+O sistema foi desenvolvido para ser intuitivo e responsivo, com visualização clara dos dados, alertas imediatos e sugestões de solução adaptadas à realidade de cada setor. Os usuários podem acessá-lo em computadores ou dispositivos móveis, garantindo acompanhamento contínuo, tanto no ambiente de trabalho quanto em campo.
 
-Características: Geralmente têm conhecimento básico sobre consumo energético, usam dispositivos móveis e desktops para acesso a aplicativos, e buscam soluções práticas e intuitivas.
-
-Objetivos: Controlar o consumo de energia em tempo real, receber alertas sobre usos anormais e seguir sugestões para reduzir a conta de luz.
-
-## ***Usuários Corporativos (Empresas)***
-
-Perfil: Gestores ou responsáveis pela área de manutenção e operação de empresas que buscam otimizar processos e reduzir desperdícios energéticos.
-
-Características: Possuem conhecimento técnico médio a avançado sobre processos industriais ou administrativos, utilizam sistemas integrados e demandam relatórios detalhados para tomada de decisões.
-
-Objetivos: Identificar pontos críticos de desperdício, integrar dados com sistemas existentes e acompanhar relatórios de eficiência energética para reduzir custos operacionais
+Com isso, o EnergySave possibilita uma gestão energética mais inteligente e acessível, promovendo eficiência, economia e sustentabilidade dentro das operações empresariais e industriais.
 
 
 ## ***Usuario Residencial***
@@ -92,189 +86,85 @@ Objetivos: Identificar pontos críticos de desperdício, integrar dados com sist
 
 
 
-## ***Análise da Situação Atual: Antes da Introdução da Solução (EnergySave)***
+## ***Análise da Situação Atual: Antes da Introdução da Solução EnergySave***
 
-***O que as pessoas fazem?***
+Em uma indústria de médio porte, o controle de consumo de energia é feito por meio de planilhas e relatórios mensais. Quando o valor da conta aumenta, os gestores precisam solicitar análises técnicas, o que gera atrasos e custos adicionais. Não há uma visão detalhada do consumo por setor, e problemas de desperdício só são percebidos após o prejuízo.
 
-***João Silva (usuário residencial):***
 
-João tenta controlar o consumo de energia em sua casa, mas de forma intuitiva. Ele observa sua fatura de energia, tenta controlar o uso de aparelhos de forma geral, mas não tem informações detalhadas sobre o que consome mais energia.
+1. O que as pessoas fazem?
 
-Muitas vezes, ele não tem consciência de padrões de consumo, especialmente em horários de pico ou devido a aparelhos específicos como ar-condicionado e eletrodomésticos.
+  - Monitoram manualmente os medidores de energia e os relatórios fornecidos pela concessionária.
 
-Ele pode se preocupar com o impacto ambiental, mas não sabe como otimizar o consumo de forma prática.
+  - Fazem anotações e cálculos manuais para identificar consumos elevados ou anormais.
 
- ***Carlos Oliveira (gestor de energia em empresa):***
+  - Dependem de engenheiros elétricos ou técnicos especializados para interpretar medições complexas.
 
-Carlos tenta reduzir os custos de energia na fábrica, mas não possui uma visão clara sobre os pontos de desperdício.
+  - Analisam contas de energia apenas de forma geral, sem detalhamento por setor ou equipamento.
 
-Ele verifica o consumo de energia de maneira isolada e muitas vezes com informações dispersas, sem saber o que pode ser feito para reduzir os gastos de forma eficaz.
+2. Quais os artefatos envolvidos?
 
-Carlos toma decisões com base em relatórios financeiros, mas sem dados detalhados ou uma visão integrada do consumo energético em todos os setores da empresa.
+- Planilhas manuais (Excel).
 
-***Quais os artefatos envolvidos?:***
+- Relatórios de consumo fornecidos pela concessionária.
 
- ***João Silva (usuário residencial):***
+- Medidores e instrumentos de leitura locais.
 
-Contas de energia: O principal artefato utilizado para medir o consumo, mas sem informações detalhadas sobre o que está consumindo mais energia.
+- Anotações físicas ou digitais dispersas.
 
-Aparelhos eletrônicos e ar-condicionado: São os principais responsáveis pelo consumo, mas não há controle automatizado ou dados que mostrem exatamente o impacto de cada um desses dispositivos.
+3. O que elas precisam saber?
+ - Como interpretar dados de consumo e identificar picos anormais.
 
-Notificações manuais: João pode ajustar manualmente o uso de energia, mas sem dados precisos sobre o impacto real de suas escolhas.
+ - Conhecimentos técnicos de energia elétrica e eficiência energética.
 
- ***Carlos Oliveira (gestor de energia em empresa):***
+- Relação entre o uso de equipamentos e o custo energético total.
 
-Relatórios financeiros e de consumo: Utilizados para verificar os custos de energia, mas sem uma análise detalhada ou comparativa dos setores da empresa.
+## ***Cenário Depois :Após a implementação do EnergySave***
 
-Sistemas de medição de energia: Pode haver medidores de energia nos setores, mas muitas vezes esses dados são desorganizados e pouco integrados.
+Com o EnergySave implantado, os gestores e técnicos têm acesso a dados em tempo real sobre o consumo energético de cada setor e equipamento. O sistema identifica irregularidades automaticamente e sugere possíveis soluções, permitindo ações imediatas. As decisões passam a ser baseadas em dados concretos e visualizações claras, resultando em redução de custos, eficiência operacional e maior controle energético.
 
-Máquinas e equipamentos industriais: Responsáveis pelo alto consumo de energia, mas não há uma visão precisa de quais máquinas ou processos estão consumindo mais ou de como otimizar esses consumos.
+1. O que as pessoas fazem?
 
-## ***O que elas precisam saber?:***
+ - Acompanham o consumo energético em tempo real através do sistema.
 
-***João Silva (usuário residencial):***
+ - Recebem alertas automáticos sobre desperdícios ou consumo fora do padrão.
 
-Padrões de consumo: Ele precisa entender como a energia está sendo consumida em sua casa, saber quais aparelhos são mais responsáveis pelo alto consumo e como ajustar seu comportamento para reduzir as despesas.
+ - Consultam gráficos e relatórios detalhados por setor, bloco ou máquina.
 
-Alternativas de economia: João precisa de sugestões práticas sobre como economizar energia sem comprometer o conforto de sua casa, como otimizar o uso do ar-condicionado, iluminação e eletrônicos.
+ - Aplicam soluções sugeridas pelo sistema para reduzir custos e otimizar o uso de energia.
 
-Informações em tempo real: Ele precisa de dados em tempo real sobre seu consumo para agir de maneira rápida quando o consumo estiver muito alto ou fora do esperado.
+2. Quais os artefatos envolvidos?
 
-***Carlos Oliveira (gestor de energia em empresa):***
+ - Sistema EnergySave (interface web e aplicativo móvel).
 
-Onde ocorre o desperdício: Carlos precisa saber em quais setores ou máquinas ocorre o maior desperdício de energia e como distribuir melhor os recursos.
+ - Painel de controle com dashboards interativos.
 
-Eficiência dos processos: Ele precisa entender quais processos industriais podem ser otimizados para consumir menos energia e quais equipamentos são os maiores responsáveis pelo consumo.
+ - Relatórios automáticos e alertas de eficiência energética.
 
-Informações centralizadas e em tempo real: Ele necessita de um sistema que centralize os dados de consumo de energia de toda a empresa para gerar relatórios claros, permitindo a tomada de decisões baseadas em dados precisos e atualizados.
+3. O que elas precisam saber?
 
-## ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
+ - Interpretar as informações e gráficos apresentados pelo sistema.
 
- ***1. O que as pessoas fazem?***
+ - Tomar decisões baseadas em dados (sem precisar de conhecimento técnico avançado).
 
-***João Silva (usuário residencial):***
-
-Monitora o consumo de energia em tempo real pelo aplicativo.
-
-Recebe alertas automáticos quando há uso excessivo.
-
-Ajusta hábitos e uso de aparelhos de acordo com sugestões do sistema.
-
-Consulta relatórios claros para entender padrões e planejar economias.
-
-***Carlos Oliveira (gestor de energia em empresa):***
-
-Acompanha o consumo energético de todos os setores da fábrica em dashboards integrados.
-
-Identifica rapidamente áreas e máquinas que consomem mais energia.
-
-Implementa estratégias de eficiência energética baseadas nas recomendações do sistema.
-
-Utiliza relatórios para apoiar decisões estratégicas e monitorar resultados.
-
-## ***2. Quais os artefatos envolvidos?***
-
-***João Silva (usuário residencial):***
-
-Aplicativo EnergySave (mobile/desktop).
-
-Sensores inteligentes conectados aos aparelhos.
-
-Relatórios de consumo semanais/mensais.
-
-Notificações automáticas com dicas de economia.
-
-***Carlos Oliveira (gestor de energia em empresa):***
-
-Plataforma EnergySave integrada ao ERP da empresa.
-
-Sensores industriais espalhados pelos setores e máquinas.
-
-Dashboards de desempenho energético.
-
-Relatórios personalizados para tomada de decisão.
-
-## ***3. O que elas precisam saber?***
-
-***João Silva (usuário residencial):***
-
-Quais aparelhos mais consomem energia e em quais horários.
-
-Alertas de uso excessivo em tempo real.
-
-Sugestões práticas para economizar sem perder conforto.
-
-Evolução do consumo ao longo do tempo.
-
-Carlos Oliveira (gestor de energia em empresa):
-
-Quais setores e equipamentos são menos eficientes.
-
-Comparativos de consumo antes e depois das mudanças.
-
-Relatórios integrados unindo dados de energia e custos.
-
-Recomendações de melhorias operacionais e técnicas.
-
-## ***Cenário: Antes***
-
-Antes da aplicação do EnergySave, João e Carlos enfrentam desafios significativos relacionados ao controle e otimização do consumo de energia.
-
-***João Silva (usuário residencial):***
-
-Não tem uma visão clara de como sua casa consome energia, especialmente em relação a aparelhos como ar-condicionado e eletrônicos.
-
-A fatura de energia está aumentando, mas ele não sabe exatamente quais aparelhos ou comportamentos estão contribuindo para esse aumento.
-
-Não há uma forma simples de saber como pode reduzir seu consumo ou ajustar seus hábitos de forma mais eficiente.
-
-***Carlos Oliveira (gestor de energia empresarial):***
-
-A empresa enfrenta dificuldades para identificar pontos específicos de desperdício de energia, pois o consumo é disperso em vários processos e maquinários.
-
-As informações de consumo energético são obtidas de forma desorganizada, o que torna difícil otimizar os custos de forma precisa.
-
-A falta de uma visão integrada sobre a eficiência energética da fábrica dificulta a implementação de soluções eficientes para reduzir os custos operacionais.
-
-## ***Cenário: Depois***
-
-Após a aplicação do EnergySave, ambos os perfis experimentam melhorias significativas no gerenciamento de energia.
-
-João Silva:
-
-Utilizando o sistema EnergySave, João pode monitorar em tempo real o consumo de energia em sua casa, recebendo alertas sempre que o consumo excede limites estabelecidos.
-
-O sistema sugere soluções de otimização de energia, como desligar aparelhos em horários de pico ou investir em dispositivos mais eficientes.
-
-João tem relatórios claros sobre seu consumo energético, permitindo que ele tome decisões informadas sobre como reduzir a conta de energia sem abrir mão do conforto.
-
-Carlos Oliveira:
-
-A empresa de Carlos adota o EnergySave para monitorar o consumo de energia em tempo real, com sensores espalhados por toda a fábrica.
-
-O sistema fornece dados detalhados sobre o uso de energia, permitindo a identificação de áreas e processos ineficientes.
-
-Com relatórios claros e sugestões de melhoria, Carlos pode implementar estratégias mais eficazes para reduzir o desperdício energético e melhorar a eficiência operacional.
-
-A integração do sistema com os processos industriais ajuda na redução de custos operacionais, melhorando a competitividade da empresa no mercado.
+ - Aplicar as soluções sugeridas pelo EnergySave para corrigir irregularidades.
 
 ## 2. Documentos gerais no repositório
 
 ## ***2.1. Requisitos Funcionais***
-| Código | Descrição                                                                                                                       | Categoria                      | Dependências (RF / RNF) | Prioridade | MoSCoW |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------------------- | ---------- | ------ |
-| RF01   | O software deve permitir que o usuário monitore os gastos de energia mensal.                                                    | Monitoramento                  | RNF01, RNF03, RNF04     | Alta       | M      |
-| RF02   | O software deve alertar quando o consumo mensal ultrapassar em 20% a média dos últimos 3 meses, em horários fora do expediente. | Notificações                   | RF01, RNF06             | Alta       | M      |
-| RF03   | O software deve fornecer soluções para os problemas de gasto energético.                                                        | Otimização                     | RF01, RF02              | Média      | S      |
-| RF04   | O software deve mostrar os dados em forma de gráficos de fácil interpretação para o usuário.                                    | Visualização                   | RF01                    | Média      | S      |
-| RF05   | O software deve gerar relatórios personalizados de desempenho energético por período.                                           | Relatórios                     | RF01, RF04, RNF10       | Média      | S      |
-| RF06   | O software deve permitir comparação de consumo entre diferentes períodos.                                                       | Análise                        | RF01                    | Média      | S      |
-| RF07   | O software deve possibilitar cadastro de múltiplos dispositivos ou setores.                                                     | Cadastro / Gestão              | RF01                    | Média      | S      |
-| RF08   | O software deve enviar notificações em até 5 segundos após a detecção de um pico de consumo acima de 30% da média horária.      | Notificações                   | RF01, RF02, RNF06       | Alta       | M      |
-| RF09   | O software deve oferecer recomendações automáticas de economia de energia baseadas em padrões de consumo.                       | Inteligência / Recomendação    | RF01, RF02, RF03        | Baixa      | C      |
-| RF10   | O software deve possibilitar exportação de relatórios em formatos comuns (PDF, Excel).                                          | Relatórios                     | RF05                    | Baixa      | C      |
-| RF11   | O sistema deve permitir cadastro e autenticação de usuários com e-mail e senha, garantindo controle de acesso seguro.           | Cadastro / Segurança           | RNF11                   | Alta       | M      |
-| RF12   | O sistema deve permitir cadastro e autenticação de usuários com e-mail e senha, garantindo controle de acesso seguro.           | Monitoramento / Confiabilidade | RNF12                   | Média      | S      |
+| Código | Descrição                                                                                              | Categoria                   | Dependências (RF / RNF) | Prioridade | MoSCoW |
+| ------ | ------------------------------------------------------------------------------------------------------ | --------------------------- | ----------------------- | ---------- | ------ |
+| RF01   | Permitir que o usuário monitore os gastos de energia mensal por bloco e por máquina.                   | Monitoramento               | RNF01, RNF03, RNF04     | Alta       | M      |
+| RF02   | Alertar quando o consumo ultrapassar limites predefinidos, com notificações em tempo real.             | Notificações                | RF01, RNF06             | Alta       | M      |
+| RF03   | Fornecer soluções e recomendações automáticas para problemas de consumo energético.                    | Otimização                  | RF01, RF02              | Média      | S      |
+| RF04   | Exibir dados em gráficos e dashboards de fácil interpretação.                                          | Visualização                | RF01                    | Média      | S      |
+| RF05   | Gerar relatórios personalizados de desempenho energético por período, setor ou máquina.                | Relatórios                  | RF01, RF04, RNF10       | Média      | S      |
+| RF06   | Permitir comparação de consumo entre diferentes períodos e setores.                                    | Análise                     | RF01                    | Média      | S      |
+| RF07   | Possibilitar cadastro de múltiplos dispositivos, setores ou máquinas.                                  | Cadastro / Gestão           | RF01                    | Média      | S      |
+| RF08   | Enviar notificações em até 5 segundos após a detecção de picos de consumo acima de limites definidos.  | Notificações                | RF01, RF02, RNF06       | Alta       | M      |
+| RF09   | Oferecer recomendações de economia baseadas em padrões de consumo detectados.                          | Inteligência / Recomendação | RF01, RF02, RF03        | Baixa      | C      |
+| RF10   | Permitir exportação de relatórios em formatos comuns (PDF, Excel).                                     | Relatórios                  | RF05                    | Baixa      | C      |
+| RF11   | Permitir cadastro e autenticação de usuários com e-mail e senha, garantindo controle de acesso seguro. | Cadastro / Segurança        | RNF11                   | Alta       | M      |
+
 
 
 
@@ -282,20 +172,21 @@ A integração do sistema com os processos industriais ajuda na redução de cus
 
 
 ## ***2.2. Requisitos Não Funcionais***
-| Código | Descrição                                                                                                                                                           | Categoria        | Dependências (RF / RNF) | Prioridade | MoSCoW |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------------- | ---------- | ------ |
-| RNF01  | O sistema deve responder às consultas de consumo em tempo real em até 2 segundos.                                                                                   | Desempenho       | RF01, RNF06             | Alta       | M      |
-| RNF02  | A interface deve ser responsiva e acessível em navegadores modernos, Android e iOS.                                                                                 | Usabilidade      | —                       | Alta       | M      |
-| RNF03  | O software deve sugerir medidas de economia, como ajuste de horários de operação e troca de equipamentos ineficientes.                                              | Confiabilidade   | —                       | Alta       | M      |
-| RNF04  | O tráfego de dados entre sensores e servidores deve ser criptografado utilizando TLS 1.3.                                                                           | Segurança        | RF01, RF08              | Alta       | M      |
-| RNF05  | O sistema deve permitir armazenamento de, no mínimo, 5 anos de histórico de consumo por usuário.                                                                    | Escalabilidade   | RF01                    | Média      | S      |
-| RNF06  | As notificações de alertas de consumo devem ser entregues em até 5 segundos após a detecção do evento.                                                              | Eficiência       | RF08                    | Alta       | M      |
-| RNF07  | A interface deve seguir diretrizes de acessibilidade (WCAG 2.1).                                                                                                    | Usabilidade      | RNF02                   | Média      | S      |
-| RNF08  | O sistema deve suportar até 50 mil usuários simultâneos mantendo o tempo médio de resposta abaixo de 2 segundos e sem aumento de erros de requisição acima de 0,5%. | Escalabilidade   | RF01, RNF01             | Alta       | M      |
-| RNF09  | Atualizações e manutenções devem ser planejadas com no máximo 10 minutos de indisponibilidade.                                                                      | Manutenibilidade | RNF03                   | Média      | S      |
-| RNF10  | O sistema deve gerar relatórios em até 10 segundos, mesmo para períodos de 12 meses.                                                                                | Eficiência       | RF05                    | Alta       | M      |
-| RNF11  | O sistema deve utilizar mecanismos seguros de autenticação, criptografando credenciais e seguindo boas práticas OWASP para proteger dados de acesso.                | Segurança        | RF11                    | Alta       | M      |
-| RNF12  | O sistema deve garantir consistência dos dados em caso de falhas de sensores, descartando informações inválidas e registrando eventos para auditoria e análise.     | Confiabilidade   | RF12                    | Média      | S      |
+| Código | Descrição                                                                                                                                                                  | Categoria        | Dependências (RF / RNF) | Prioridade | MoSCoW |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------------- | ---------- | ------ |
+| RNF01  | O sistema deve responder às consultas de consumo em tempo real em até 2 segundos.                                                                                          | Desempenho       | RF01, RNF06             | Alta       | M      |
+| RNF02  | A interface deve ser responsiva e acessível em navegadores modernos, Android e iOS.                                                                                        | Usabilidade      | —                       | Alta       | M      |
+| RNF03  | O software deve sugerir medidas de economia, como ajuste de horários de operação e substituição de equipamentos ineficientes.                                              | Confiabilidade   | —                       | Alta       | M      |
+| RNF04  | O tráfego de dados entre dispositivos, sensores e servidores deve ser criptografado utilizando TLS 1.3.                                                                    | Segurança        | RF01, RF08              | Alta       | M      |
+| RNF05  | O sistema deve permitir armazenamento de, no mínimo, 5 anos de histórico de consumo por usuário/setor/máquina.                                                             | Escalabilidade   | RF01                    | Média      | S      |
+| RNF06  | As notificações de alertas de consumo devem ser entregues em até 5 segundos após a detecção do evento.                                                                     | Eficiência       | RF08                    | Alta       | M      |
+| RNF07  | A interface deve seguir diretrizes de acessibilidade (WCAG 2.1).                                                                                                           | Usabilidade      | RNF02                   | Média      | S      |
+| RNF08  | O sistema deve suportar até 50 mil usuários simultâneos mantendo o tempo médio de resposta abaixo de 2 segundos e sem aumento de erros de requisição acima de 0,5%.        | Escalabilidade   | RF01, RNF01             | Alta       | M      |
+| RNF09  | Atualizações e manutenções devem ser planejadas com no máximo 10 minutos de indisponibilidade.                                                                             | Manutenibilidade | RNF03                   | Média      | S      |
+| RNF10  | O sistema deve gerar relatórios em até 10 segundos, mesmo para períodos de 12 meses.                                                                                       | Eficiência       | RF05                    | Alta       | M      |
+| RNF11  | O sistema deve utilizar mecanismos seguros de autenticação, criptografando credenciais e seguindo boas práticas OWASP para proteger dados de acesso.                       | Segurança        | RF11                    | Alta       | M      |
+| RNF12  | Em caso de falha de sensores, o sistema deve registrar o evento, descartar leituras inválidas e notificar o usuário, mantendo a operação com os dados válidos disponíveis. | Confiabilidade   | RF01, RF08              | Alta       | M      |
+
 
 
 
@@ -329,25 +220,27 @@ A integração do sistema com os processos industriais ajuda na redução de cus
 
 ## ***2.5. Histórias do Usuário***
 
-| **Código** | **História de Usuário**                                                                                                                                                    |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **RF01**   | Como usuário, quero monitorar os gastos de energia mensal para que eu possa acompanhar e controlar meu consumo.                                                            |
-| **RF02**   | Como usuário, quero receber alertas quando o consumo mensal ultrapassar em 20% a média dos últimos 3 meses fora do expediente para que eu possa tomar medidas preventivas. |
-| **RF03**   | Como usuário, quero que o sistema sugira soluções para problemas de gasto energético para que eu possa reduzir o consumo excessivo.                                        |
-| **RF04**   | Como usuário, quero visualizar os dados de consumo em gráficos de fácil interpretação para que eu compreenda rapidamente meu padrão de uso.                                |
-| **RF05**   | Como usuário, quero gerar relatórios personalizados de desempenho energético por período para que eu possa analisar e documentar o consumo.                                |
-| **RF06**   | Como usuário, quero comparar o consumo entre diferentes períodos para que eu possa identificar mudanças ou tendências.                                                     |
-| **RF07**   | Como gestor, quero cadastrar vários dispositivos ou setores para que eu possa acompanhar o consumo de cada um separadamente.                                               |
-| **RF08**   | Como usuário, quero ser notificado em até 5 segundos após a detecção de um pico de consumo acima de 30% da média horária para que eu possa agir imediatamente.                                           |
-| **RF09**   | Como usuário, quero receber recomendações automáticas de economia com base no padrão de consumo para que eu possa otimizar o uso de energia.                               |
-| **RF10**   | Como usuário, quero exportar relatórios em formatos como PDF e Excel para que eu possa compartilhar ou arquivar as informações.                                            |
-| **RF11**   | Como administrador, quero permitir o cadastro e autenticação de usuários com e-mail e senha para que o acesso ao sistema seja seguro.                                      |
-| **RF12**   | Como usuário, quero me autenticar com e-mail e senha para que meu acesso ao sistema seja seguro e personalizado.                                                           |
+| **Código** | **História de Usuário**                                                                                                                                                       |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **RF01**   | Como usuário, quero monitorar os gastos de energia mensal por bloco e por máquina, para que eu possa acompanhar e controlar o consumo da empresa ou indústria.                |
+| **RF02**   | Como usuário, quero receber alertas quando o consumo mensal ultrapassar limites predefinidos fora do expediente, para que eu possa agir rapidamente e reduzir desperdícios.   |
+| **RF03**   | Como usuário, quero que o sistema sugira soluções para problemas de consumo energético, para que eu possa implementar ações corretivas sem depender de engenheiros elétricos. |
+| **RF04**   | Como usuário, quero visualizar os dados de consumo em gráficos e dashboards de fácil interpretação, para que eu compreenda rapidamente padrões de uso e setores críticos.     |
+| **RF05**   | Como usuário, quero gerar relatórios personalizados de desempenho energético por período, setor ou máquina, para documentar e analisar o consumo detalhadamente.              |
+| **RF06**   | Como usuário, quero comparar o consumo entre diferentes períodos e setores, para identificar tendências e mudanças no uso de energia.                                         |
+| **RF07**   | Como gestor, quero cadastrar múltiplos dispositivos, setores ou máquinas, para que eu possa acompanhar o consumo de cada um separadamente.                                    |
+| **RF08**   | Como usuário, quero ser notificado em até 5 segundos após a detecção de picos de consumo acima dos limites definidos, para que eu possa tomar medidas imediatas.              |
+| **RF09**   | Como usuário, quero receber recomendações automáticas de economia baseadas em padrões de consumo, para otimizar o uso de energia de forma prática e rápida.                   |
+| **RF10**   | Como usuário, quero exportar relatórios em formatos como PDF e Excel, para compartilhar, arquivar ou apresentar informações para a gestão.                                    |
+| **RF11**   | Como administrador, quero permitir o cadastro e autenticação de usuários com e-mail e senha, para que o acesso ao sistema seja seguro e controlado.                           |
+| **RF12**   | Como usuário, quero que o sistema continue funcionando mesmo em caso de falha de sensores, registrando os eventos, descartando leituras inválidas e notificando os usuários.  |
+
 
 
 ## ***2.6. Diagramas de Caso de Uso e Especificações***
 
-<img width="880" height="724" alt="diagramaRequisitos" src="https://github.com/user-attachments/assets/0897b575-4116-4558-87b2-fce39e53b8d4" />
+![c499136b-2f3e-49d6-8a8d-136bfa031b21](https://github.com/user-attachments/assets/1ccb2841-ee15-4667-aaa7-6f41df986de5)
+
 
 ## ***2.7. Diagramas de Atividades***
 
