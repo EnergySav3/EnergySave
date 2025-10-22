@@ -75,14 +75,14 @@ Com isso, o EnergySave possibilita uma gestão energética mais inteligente e ac
 ## ***Usuario Residencial***
 
 
-<img width="1414" height="2000" alt="Cópia de Nome" src="https://github.com/user-attachments/assets/963cf03b-3d58-4c2e-8d41-724dc68809bd" />
+<img width="500" height="1000" alt="Cópia de Nome" src="https://github.com/user-attachments/assets/963cf03b-3d58-4c2e-8d41-724dc68809bd" />
 
 
 
 ## ***Gestor De Energia Em Empresa***
 
 
-<img width="1414" height="2000" alt="Nome" src="https://github.com/user-attachments/assets/0f0fcf78-2bc6-40ae-a444-3e05dc2a54aa" />
+<img width="500" height="1000" alt="Nome" src="https://github.com/user-attachments/assets/0f0fcf78-2bc6-40ae-a444-3e05dc2a54aa" />
 
 
 
