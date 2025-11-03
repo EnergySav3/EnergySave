@@ -245,6 +245,10 @@ Com o EnergySave implantado, os gestores e técnicos têm acesso a dados em temp
 
 <img width="720" height="523" alt="JL4NJW~1" src="https://github.com/user-attachments/assets/05dea4f1-b51c-413c-bece-20233d12dcd1" />
 
+## *** Diagramas de Classe***
+<img width="1170" height="839" alt="diagrama classe requisitos" src="https://github.com/user-attachments/assets/1b07bd06-f7d0-499a-b119-71c2893885c0" />
+
+
 
 ## ***2.8. Protótipos***
 
