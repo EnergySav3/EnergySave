@@ -214,7 +214,6 @@ Com o EnergySave implantado, os gestores e técnicos têm acesso a dados em temp
 10. Você teria alguma sugestão ou melhoria que poderia tornar o EnergySave mais robusto ou atrativo do ponto de vista técnico ou comercial?
 
 ## ***2.4. Entrevista***
-Arquivo com as respostas do professor, e o áudio transcrito da entrevista.
 https://1drv.ms/f/c/617f4734a27d6de8/EoQjLiQwSZ9CmBmzl5KM4qQB9RG7F92RZEDqiYDJ3Tmjxg?e=f3gtnY
 
 ## ***2.5. Histórias do Usuário***
