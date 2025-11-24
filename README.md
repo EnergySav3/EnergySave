@@ -256,8 +256,4 @@ https://1drv.ms/f/c/617f4734a27d6de8/EoQjLiQwSZ9CmBmzl5KM4qQB9RG7F92RZEDqiYDJ3Tm
 
 
 
-## Referências
 
-*<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
-
-[1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
